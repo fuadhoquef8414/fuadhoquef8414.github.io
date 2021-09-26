@@ -9,11 +9,11 @@ body {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 a {
-    color: #2e72a1;
+    color: #2e64a1;
 }
 
 #logo, .project-img {
@@ -31,7 +31,7 @@ a {
 }
 
 .margin {
-    margin-bottom: 45px;
+    margin-bottom: 50px;
 }
 
 .bg-1 {
